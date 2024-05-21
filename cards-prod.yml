@@ -2,7 +2,7 @@ build:
    version: '1.0'
 
 cards:
-   message: Welcome to ashu tiwary cards api - prod
+   message: Welcome to ashu tiwary cards api - production
    contactDetails:
       name: Ashu Tiwary cards - prod
       email: ashu.tiwary19-cards-prod@gmail.com
