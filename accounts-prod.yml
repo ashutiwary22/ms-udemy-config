@@ -2,7 +2,7 @@ build:
    version: '1.0'
 
 accounts:
-   message: "Welcome to ashu tiwary accounts production api"
+   message: "Welcome to ashu tiwary accounts prod api"
    contactDetails:
       name: "Ashu Tiwary"
       email: "{cipher}cc559b1fe0cdb9120bb0bbcd1a423317b1d7cccca370db983eddfa499fa48bd1aa6db0c174ccd2df03b571ffed664aa6"
