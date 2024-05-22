@@ -2,7 +2,7 @@ build:
    version: '2.0'
 
 cards:
-   message: Welcome to ashu tiwary cards api - qa
+   message: Welcome to ashu tiwary cards api - quality-assurance
    contactDetails:
       name: Ashu Tiwary cards - qa
       email: ashu.tiwary19-cards-qa@gmail.com
