@@ -2,7 +2,7 @@ build:
    version: '2.0'
 
 accounts:
-   message: "Welcome to ashu tiwary accounts qa - testing hookdeck api - 2"
+   message: "Welcome to ashu tiwary accounts qa - testing hookdeck api - 3"
    contactDetails:
       name: "Ashu Tiwary"
       email: "ashu.tiwary19-qa@gmail.com"
