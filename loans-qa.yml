@@ -2,7 +2,7 @@ build:
    version: '2.0'
 
 loans:
-   message: Welcome to ashu tiwary loans api - quality-assurance webhook - test
+   message: Welcome to ashu tiwary loans api - quality-assurance bus refresh - test
    contactDetails:
       name: Ashu Tiwary - loans - qa
       email: ashu.tiwary19-loans-qa@gmail.com
